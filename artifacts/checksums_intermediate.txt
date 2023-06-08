@@ -1,0 +1,2 @@
+913215448794c65dfc8e9963bf40a574a8079b6e4c35cf144e8881c2d8727e5e  ./target/wasm32-unknown-unknown/release/schema.wasm
+5e92cf6bbcdb0ca08cb866c1f509e34550d8640cf0d4ea66ee8a5ec8633bd5c4  target/wasm32-unknown-unknown/release/cw20_token.wasm
